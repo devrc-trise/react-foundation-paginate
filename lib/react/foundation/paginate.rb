@@ -3,7 +3,7 @@ require "react/foundation/paginate/version"
 module React
   module Foundation
     module Paginate
-      # Your code goes here...
+      class Engine < ::Rails::Engine; end
     end
   end
 end

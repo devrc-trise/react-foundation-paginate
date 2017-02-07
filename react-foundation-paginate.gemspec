@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = React::Foundation::Paginate::VERSION
   spec.authors       = ["Romel Campos"]
   spec.email         = ["rcoolah@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "A pagination library for react+foundation"
   spec.homepage      = ""
   spec.license       = "MIT"
 

@@ -1,6 +1,6 @@
 # React::Foundation::Paginate
 
-TODO: Write a gem description
+A pagination library for react+foundation
 
 ## Installation
 
@@ -20,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+<Paginate page=1 perPage=10 total=100 onPageChange={this.handlePageChange} />
+
+## Prerequisites
+
+* react-rails gem
+* foundation ui 6
 
 ## Contributing
 
