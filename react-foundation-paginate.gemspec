@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Romel Campos"]
   spec.email         = ["rcoolah@gmail.com"]
   spec.summary       = "A pagination library for react+foundation"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/devrc-trise/react-foundation-paginate"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
